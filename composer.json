@@ -1,0 +1,24 @@
+{
+    "name": "florinnichifiriuc/stable-diffusion-php-client",
+    "description": "A PHP client library for Stable Diffusion API",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Florinnichifiriuc\\StableDiffusionPhpClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florin Nichifiriuc",
+            "email": "florinnichifiriuc@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}

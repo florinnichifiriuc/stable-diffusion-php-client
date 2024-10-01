@@ -1,0 +1,13 @@
+
+**File:** `LICENSE`
+
+Include the MIT License or any other license you prefer.
+
+### 7. Version Control Your Library
+
+Initialize a Git repository and commit your code:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"

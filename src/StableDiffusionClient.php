@@ -1,6 +1,6 @@
 <?php
 
-namespace Florinnichifiruc\StableDiffusionPhpClient;
+namespace Florinnichifiriuc\StableDiffusionPhpClient;
 
 use GuzzleHttp\Client;
 

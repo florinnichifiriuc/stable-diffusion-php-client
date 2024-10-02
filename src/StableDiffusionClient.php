@@ -33,5 +33,17 @@ class StableDiffusionClient
         return null;
     }
 
+    public function getModels()
+    {
+        $response = $this->client->get('/sdapi/v1/sd-models');
+        $result = json_decode($response->getBody(), true);
+
+        if (isset($result)) {
+            return $result;
+        }
+
+        return null;
+    }
+
     // You can add more methods like img2img, etc.
 }

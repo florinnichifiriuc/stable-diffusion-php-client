@@ -1,4 +1,3 @@
-
 # Stable Diffusion PHP Client
 
 A PHP client library for interacting with the [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) API. This library allows you to integrate Stable Diffusion's text-to-image generation capabilities into your PHP applications, including Laravel projects.

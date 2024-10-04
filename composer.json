@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "florinnichifiriuc/stable-diffusion-php-client",
     "description": "A PHP client library for Stable Diffusion API",
     "type": "library",

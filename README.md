@@ -22,6 +22,7 @@ A PHP client library for interacting with the [Stable Diffusion](https://github.
 - [License](#license)
 
 ---
+## Version 1.0.3
 
 ## Features
 
